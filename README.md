@@ -10,9 +10,9 @@ Project Workflow
 5. Highlighted key insights on platform popularity and traffic distribution.
 
 Tools/Resources Used
-- Semrush
-- Microsoft Excel
-- Flourish
+- Semrush (Data source)
+- Microsoft Excel (Data preparation)
+- Flourish (Data visualization)
 
 Key Insight
 - Google dominates the web with nearly 88.46 billion visits, making it the most visited website globally. Its traffic is nearly 2× that of YouTube and over 10× that of most other top sites.
