@@ -11,7 +11,7 @@ Project Workflow
 
 Tools/Resources Used
 - Semrush
-- Excel
+- Microsoft Excel
 - Flourish
 
 Key Insight
