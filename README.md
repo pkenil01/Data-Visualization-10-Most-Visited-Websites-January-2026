@@ -14,7 +14,7 @@ Tools/Resources Used
 - Microsoft Excel (Data Preparation)
 - Flourish (Data Visualization)
 
-Key Insight
+Key Insights
 - Google dominates the web with nearly 88.46 billion visits, making it the most visited website globally. Its traffic is nearly 2× that of YouTube and over 10× that of most other top sites.
 - YouTube remains the top video platform with nearly 45.07 billion visits, highlighting massive global video consumption.
 - Reddit and Wikipedia collectively exceed 8 billion visits, demonstrating the continued importance of community forums and reference platforms.
